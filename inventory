@@ -1,0 +1,7 @@
+---
+all: 
+  hosts:
+    monitor_server: 
+      ansible_host: <ex: 1.1.1.1>
+      ansible_ssh_user: root
+      ansible_password: <ex: my_password>
